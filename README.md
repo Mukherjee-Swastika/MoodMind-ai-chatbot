@@ -144,4 +144,4 @@ MoodMind-ai-chatbot/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-``` text
+
